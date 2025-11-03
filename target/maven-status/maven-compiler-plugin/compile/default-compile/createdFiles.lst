@@ -1,0 +1,9 @@
+hng\backend\fashion_agent\tools\OutfitService.class
+hng\backend\fashion_agent\controller\MCPController.class
+hng\backend\fashion_agent\config\AgentConfig.class
+hng\backend\fashion_agent\model\MCPResponse.class
+hng\backend\fashion_agent\tools\AgentTools.class
+hng\backend\fashion_agent\FashionAgentApplication.class
+hng\backend\fashion_agent\config\MCPAgentInitializer.class
+hng\backend\fashion_agent\model\MCPRequest.class
+hng\backend\fashion_agent\tools\WeatherService.class
